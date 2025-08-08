@@ -2,7 +2,7 @@
 Machine Learning project predicting student performance in History and Geography using real-world data
 # 🎓 Predicting Student Performance in History and Geography
 
-🎉 This is my first collaborative machine learning project, developed with @Ifeoluwa (Ruth) Olonijolu [https://github.com/IfeoluwaRuth/IfeoluwaRuth.github.io], a Graduate Student at Université de Montréal.
+🎉 This is my first collaborative machine learning project, developed with @Ifeoluwa (Ruth) Olonijolu [https://github.com/IfeoluwaRuth], a Graduate Student at Université de Montréal.
 
 We analyzed academic data from Algerian high schools to predict pass/fail outcomes and uncover actionable insights in student performance.
 
